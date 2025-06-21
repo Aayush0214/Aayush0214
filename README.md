@@ -10,7 +10,7 @@
   <a href="https://github.com/Aayush0214">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
-  <a href="www.linkedin.com/in/aayush-kushwaha-15520b2a1">
+  <a href="https://www.linkedin.com/in/aayush-kushwaha-15520b2a1/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=twitter&logoColor=white" alt="LinkedIn Badge"/>
   </a>
    <a href="insta">
