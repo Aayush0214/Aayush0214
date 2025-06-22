@@ -14,15 +14,24 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=twitter&logoColor=white" alt="LinkedIn Badge"/>
   </a>
    <a href="insta">
-    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Badge"/>
   </a>
    <a href="twitter">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 
-### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,java)](https://skillicons.dev)
+### Languages:
+[![My Skills](https://skillicons.dev/icons?i=java,dart,sql)](https://skillicons.dev)
+
+### Frameworks:
+[![My Skills](https://skillicons.dev/icons?i=flutter,firebase)](https://skillicons.dev)
+
+### Tools
+[![My Skills](https://skillicons.dev/icons?i=git,github,postman,figma)](https://skillicons.dev)
+
+### Databases
+[![My Skills](https://skillicons.dev/icons?i=mysql,firebase)](https://skillicons.dev)
 
 ![Aayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aayush0214&show_icons=true&theme=dark)
 
