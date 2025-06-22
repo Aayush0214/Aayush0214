@@ -31,7 +31,7 @@
 [![My Skills](https://skillicons.dev/icons?i=git,github,postman,figma)](https://skillicons.dev)
 
 ### Databases
-[![My Skills](https://skillicons.dev/icons?i=mysql,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,firebase,supabase)](https://skillicons.dev)
 
 ![Aayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aayush0214&show_icons=true&theme=dark)
 
