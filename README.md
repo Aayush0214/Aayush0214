@@ -26,11 +26,3 @@
 
 ### Databases
 [![My Skills](https://skillicons.dev/icons?i=mysql,firebase,supabase)](https://skillicons.dev)
-
-![Aayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aayush0214&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush0214&theme=dark)
-
-
-<br>
-⭐️ From [Aayush](https://github.com/Aayush0214)
